@@ -7,3 +7,13 @@ name = input("What is your name? ")
 # Greet them by their input name
 print("It is very nice to meet you, ")
 print(name)
+
+# Ask their age
+current_age = int("How old are you? ")
+
+# Ask when they started learning to code
+starting_age = int("Interesting. And how old were you when you started learning to code? " )
+
+# Calculate years of experience in coding
+experience = current_age-starting_age
+print("Excellent. So that means you have this many years of experience: " + experience)
