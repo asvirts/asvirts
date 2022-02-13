@@ -1,0 +1,9 @@
+# Say hello to the world
+print("Hello, world!")
+
+# Request their name
+name = input("What is your name? ")
+
+# Greet them by their input name
+print("It is very nice to meet you, ")
+print(name)
