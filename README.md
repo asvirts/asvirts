@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @asvirts
-- 👀 I’m interested in ... computers, technology, sports, and Jesus.
-- 🌱 I’m currently learning ... computer science and studying for CompTIA A+.
-- 💞️ I’m looking to collaborate on ... not sure yet!
-- 📫 How to reach me ... asvirts@outlook.com
+- 👋 Hi, I’m Andrew Virts!
+- 👀 I’m interested in ... computers, technology, sports (Roll Tide), and Jesus.
+- 🌱 I’m currently learning ... Front End Web Development.
+- 📫 How to reach me ... andrewvirts@gmail.com
 
 <!---
 asvirts/asvirts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
