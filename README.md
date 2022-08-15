@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Virts!
 - 👀 I’m interested in ... computers, technology, sports (Roll Tide), and Jesus.
-- 🌱 I’m currently learning ... Front End Web Development.
+- 🌱 I’m currently working in ... Web Development and Project Management.
 - 📫 How to reach me ... # https://virts.dev
 
 <!---
