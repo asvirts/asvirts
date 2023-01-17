@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew Virts!
 - 👀 I’m interested in ... computers, technology, sports (Roll Tide), and Jesus.
 - 🌱 I’m currently working in ... Web Development + Design.
-- 📫 How to reach me ... # https://virts.dev
+- 📫 How to reach me ... # https://virts.dev or @asvirts on Twitter
 
 <!---
 asvirts/asvirts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
