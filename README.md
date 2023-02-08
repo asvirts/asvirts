@@ -17,8 +17,8 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 ## What I'm Skilled In
 
-- HTML, CSS, JavaScript, Bootstrap,
-- Figma, Photoshop Illustrator
+- HTML, CSS, JavaScript, Bootstrap
+- Figma, Photoshop, Illustrator
 - AWS, Azure
 
 ## Connect with Me
