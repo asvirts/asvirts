@@ -8,8 +8,6 @@ I have had the opportunity to work on a diverse range of projects, from small bu
 
 When I'm not coding, you'll likely find me hanging out with my family, playing video games, or watching sports.
 
-On my GitHub profile, you'll get a glimpse into my work and the projects I've undertaken so far. I hope you find them interesting and if you have any questions, don't hesitate to reach out.
-
 ## My Projects
 
 - Onyxia's Lair: [https://github.com/asvirts/onyxias-lair]
