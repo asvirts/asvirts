@@ -12,7 +12,7 @@ On my GitHub profile, you'll get a glimpse into my work and the projects I've un
 
 ## My Projects
 
-- [Onyxia's Lair]: [(https://github.com/asvirts/onyxias-lair)]
+- Onyxia's Lair: (https://github.com/asvirts/onyxias-lair)
 - [R&R Window Tinting]: [Brief description of the project and a link to the repository](https://github.com/asvirts/r-and-r)]
 - CFB Systematic Ranking: [Removes human bias in ranking CFB teams (I'm talking to you, voters of Oregon and Ohio State). This is an automated, systematic system to rank every FBS team based on factors such as wins, losses, points for/against, strength of schedule, and more.]
 
