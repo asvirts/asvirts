@@ -2,7 +2,7 @@
 ### <p align="center">Web Developer from the Bayou</p>
 A curious learner and passionate creator sharing my journey with the world. Using my skills and passions to make a positive impact and empower others to do the same. 
 
-I am driven by a passion for creating innovative solutions to real-world problems. I'm always on the lookout for new and challenging projects that allow me to continue learning and growing in this field.
+I am driven by a passion for creating innovative solutions to real-world problems. I'm always on the lookout for new, challenging projects that allow me to continue learning and growing in this field.
 
 I have had the opportunity to work on a diverse range of projects, from small business websites to large-scale web applications. I am highly collaborative and enjoy working with a team, but am also comfortable taking on individual projects and seeing them through to completion.
 
