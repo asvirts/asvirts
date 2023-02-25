@@ -23,7 +23,7 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 ## Certifications
 
-- Responsive Web Design from freeCodeCamp
+- freeCodeCamp Responsive Web Design
 - Microsoft 365 Fundamentals
 - CompTIA A+
 
