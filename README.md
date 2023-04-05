@@ -19,7 +19,7 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 - HTML, CSS, JavaScript, Bootstrap, Tailwind, React
 - Figma, Photoshop, Illustrator
-- AWS, Azure
+- AWS, Azure, Google
 
 ## Certifications
 
