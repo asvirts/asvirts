@@ -14,6 +14,7 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 - R&R Window Tinting: [https://github.com/asvirts/r-and-r]
 - Read.ly: [https://github.com/asvirts/read-ly]
 - Password Generator: [https://github.com/asvirts/password-generator]
+- Calculator App built in React: [https://github.com/asvirts/React-Calculator-App]
 
 ## What I'm Skilled In
 
