@@ -24,6 +24,7 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 ## Certifications
 
+- Meta Front End Developer
 - freeCodeCamp Responsive Web Design
 - Microsoft 365 Fundamentals
 - CompTIA A+
