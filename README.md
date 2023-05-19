@@ -19,6 +19,7 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 ## What I'm Skilled In
 
 - React, Bootstrap, Tailwind, Liquid, JavaScript, HTML, CSS
+- Working on learning Python, C#
 - Figma, Photoshop, Illustrator
 - AWS, Azure, Google
 
