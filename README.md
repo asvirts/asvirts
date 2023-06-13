@@ -18,7 +18,8 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 - SpaceX (GraphQL): [https://github.com/asvirts/space-x]
 - Onyxia's Lair (JavaScript): [https://github.com/asvirts/onyxias-lair]
 - Alabama Basketball Scoreboard (JavaScript): [https://github.com/asvirts/scrimba-basketball-scoreboard]
-- R&R Window Tinting: [https://github.com/asvirts/r-and-r]
+- R&R Window Tinting (AWS): [https://github.com/asvirts/r-and-r]
+-- AWS
 - Password Generator (JavaScript): [https://github.com/asvirts/password-generator]
 
 ## What I'm Skilled In
