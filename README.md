@@ -10,11 +10,16 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 ## My Projects
 
-- Onyxia's Lair: [https://github.com/asvirts/onyxias-lair]
+- Lord of the Rings Lore (React): [https://github.com/asvirts/lotr-lore]
+- Calculator App (React): [https://github.com/asvirts/React-Calculator-App]
+- Madlib (C#): [https://github.com/asvirts/Madlib]
+- Sal's Shipping (Python): [https://github.com/asvirts/codecademy-sals-shipping]
+- Magic 8 Ball (Python): [https://github.com/asvirts/codecademy-magic-8-ball]
+- SpaceX (GraphQL): [https://github.com/asvirts/space-x]
+- Onyxia's Lair (JavaScript): [https://github.com/asvirts/onyxias-lair]
+- Alabama Basketball Scoreboard (JavaScript): [https://github.com/asvirts/scrimba-basketball-scoreboard]
 - R&R Window Tinting: [https://github.com/asvirts/r-and-r]
-- Read.ly: [https://github.com/asvirts/read-ly]
-- Password Generator: [https://github.com/asvirts/password-generator]
-- Calculator App built in React: [https://github.com/asvirts/React-Calculator-App]
+- Password Generator (JavaScript): [https://github.com/asvirts/password-generator]
 
 ## What I'm Skilled In
 
