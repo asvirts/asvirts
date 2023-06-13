@@ -10,7 +10,7 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 ## Featured Projects
 
-- Lord of the Rings Lore (React): (Lord of the Rings Lore (React))[https://github.com/asvirts/lotr-lore]
+- Lord of the Rings Lore (React): (Lord of the Rings Lore React)[https://github.com/asvirts/lotr-lore]
 - Calculator App (React): [https://github.com/asvirts/React-Calculator-App]
 - Madlib (C#): [https://github.com/asvirts/Madlib]
 - Sal's Shipping (Python): [https://github.com/asvirts/codecademy-sals-shipping]
