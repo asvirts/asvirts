@@ -9,10 +9,12 @@ I have had the opportunity to work on a diverse range of projects, from small bu
 When I'm not coding, you'll likely find me hanging out with my family, playing video games, or watching sports.
 
 ## Featured Projects
+Includes a list of technologies used in each project.
 
-- Lord of the Rings Lore (React): [https://github.com/asvirts/lotr-lore]
-- Calculator App (React): [https://github.com/asvirts/React-Calculator-App]
-- Madlib (C#): [https://github.com/asvirts/Madlib]
+### Lord of the Rings Lore (React): [https://github.com/asvirts/lotr-lore]
+
+### [Calculator App (React)](https://github.com/asvirts/React-Calculator-App)
+### Madlib (C#): [https://github.com/asvirts/Madlib]
 - Sal's Shipping (Python): [https://github.com/asvirts/codecademy-sals-shipping]
 - Magic 8 Ball (Python): [https://github.com/asvirts/codecademy-magic-8-ball]
 - SpaceX (GraphQL): [https://github.com/asvirts/space-x]
