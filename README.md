@@ -11,36 +11,25 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 ## Featured Projects
 Includes a list of technologies used in each project.
 
-| ### [Lord of the Rings Lore](https://github.com/asvirts/lotr-lore) | ### [Calculator App](https://github.com/asvirts/React-Calculator-App) |
-| ### [Lord of the Rings Lore](https://github.com/asvirts/lotr-lore) | ### [Calculator App](https://github.com/asvirts/React-Calculator-App) |
-
 ### [Lord of the Rings Lore](https://github.com/asvirts/lotr-lore)
 - React
-
 ### [Calculator App](https://github.com/asvirts/React-Calculator-App)
 - React
-
 ### [Madlib](https://github.com/asvirts/Madlib)
 - C#
-
 ### [Sal's Shipping](https://github.com/asvirts/codecademy-sals-shipping)
 - JavaScript
 
 ### [Magic 8 Ball](https://github.com/asvirts/codecademy-magic-8-ball)
 - JavaScript
-
 ### [SpaceX](https://github.com/asvirts/space-x)
 - React, GraphQL
-
 ### [Onyxia's Lair](https://github.com/asvirts/onyxias-lair)
 - JavaScript
-
 ### [Alabama Basketball Scoreboard](https://github.com/asvirts/scrimba-basketball-scoreboard)
 - JavaScript
-
 ### [R&R Window Tinting](https://github.com/asvirts/r-and-r)
 - AWS
-
 ### [Password Generator](https://github.com/asvirts/password-generator)
 - JavaScript
 
