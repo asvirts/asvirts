@@ -11,6 +11,9 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 ## Featured Projects
 Includes a list of technologies used in each project.
 
+| ### [Lord of the Rings Lore](https://github.com/asvirts/lotr-lore) | ### [Calculator App](https://github.com/asvirts/React-Calculator-App) |
+| ### [Lord of the Rings Lore](https://github.com/asvirts/lotr-lore) | ### [Calculator App](https://github.com/asvirts/React-Calculator-App) |
+
 ### [Lord of the Rings Lore](https://github.com/asvirts/lotr-lore)
 - React
 
