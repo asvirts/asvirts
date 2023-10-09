@@ -1,5 +1,5 @@
 # <p align="center">👋 Hello! I’m Andrew Virts.</p>
-### <p align="center">Integrated Web Strategist on the Bayou</p>
+### <p align="center">Software Engineer on the Bayou</p>
 A curious learner and passionate creator sharing my journey with the world. Using my skills and passions to make a positive impact and empower others to do the same. 
 
 I am driven by a passion for creating innovative solutions to real-world problems. I'm always on the lookout for new, challenging projects that allow me to continue learning and growing in this field.
