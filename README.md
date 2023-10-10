@@ -43,6 +43,7 @@ Includes a list of technologies used in each project.
 ## Certifications
 
 - Meta Front End Developer
+- Google UX Design
 - freeCodeCamp Responsive Web Design
 - Microsoft 365 Fundamentals
 - CompTIA A+
