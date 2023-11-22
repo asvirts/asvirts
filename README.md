@@ -8,24 +8,6 @@ I have had the opportunity to work on a diverse range of projects, from small bu
 
 When I'm not coding, you'll likely find me hanging out with my family, playing video games, or watching sports.
 
-## Featured Projects
-Includes a list of technologies used in each project.
-
-### [CFB Community Poll](https://github.com/asvirts/cfb-community-poll)
-- Svelte, Sveltekit, Supabase, REST API
-### [Lord of the Rings Lore](https://github.com/asvirts/lotr-lore)
-- React
-### [Calculator App](https://github.com/asvirts/React-Calculator-App)
-- React
-### [Madlib](https://github.com/asvirts/Madlib)
-- C#
-### [SpaceX](https://github.com/asvirts/space-x)
-- React, GraphQL
-### [Onyxia's Lair](https://github.com/asvirts/onyxias-lair)
-- JavaScript
-### [R&R Window Tinting](https://github.com/asvirts/r-and-r)
-- AWS
-
 ## What I'm Skilled In
 
 - React, Svelte, Bootstrap, Tailwind, Liquid, JavaScript, HTML, CSS
