@@ -10,12 +10,14 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 ## What I'm Skilled In
 
-- React, Svelte, Bootstrap, Tailwind, Liquid, JavaScript, HTML, CSS
-- Figma, Photoshop
-- AWS, Azure, Google
+- Next.js, React, .NET/C#
+- JavaScript, HTML/CSS, Tailwind
+- Figma
+- AWS, Azure
 
 ## Certifications
 
+- Meta Full-Stack Software Engineer
 - Meta Front End Developer
 - Meta Back End Developer
 - CompTIA A+
@@ -29,3 +31,5 @@ Don't be a stranger! If you want to connect or just have a chat about technology
 
 - Website: [https://virts.dev]
 - LinkedIn: [https://linkedin.com/in/andrewvirts]
+- Twitter (...or X?): [https://twitter.com/asvirts]
+- Threads: [https://www.threads.net/@asvirts]
