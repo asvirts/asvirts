@@ -31,5 +31,4 @@ Don't be a stranger! If you want to connect or just have a chat about technology
 
 - Website: [https://virts.dev]
 - LinkedIn: [https://linkedin.com/in/andrewvirts]
-- Twitter (...or X?): [https://twitter.com/asvirts]
 - Threads: [https://www.threads.net/@asvirts]
