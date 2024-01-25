@@ -30,5 +30,3 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 Don't be a stranger! If you want to connect or just have a chat about technology, feel free to reach out through any of the following channels:
 
 - Website: [https://virts.dev]
-- LinkedIn: [https://linkedin.com/in/andrewvirts]
-- Threads: [https://www.threads.net/@asvirts]
