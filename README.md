@@ -10,7 +10,7 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 
 ## What I'm Skilled In
 
-- Next.js, React, .NET/C#
+- C#, .NET, Next.js, React
 - JavaScript, HTML/CSS, Tailwind
 - Figma
 - AWS, Azure
@@ -20,10 +20,10 @@ When I'm not coding, you'll likely find me hanging out with my family, playing v
 - Meta Full-Stack Software Engineer
 - Meta Front End Developer
 - Meta Back End Developer
-- CompTIA A+
 - Google UX Design
 - freeCodeCamp Responsive Web Design
 - Microsoft 365 Fundamentals
+- CompTIA A+
 
 ## Connect with Me
 
