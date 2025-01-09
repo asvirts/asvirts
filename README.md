@@ -1,5 +1,5 @@
 # <p align="center">👋 Hello! I’m Andrew Virts.</p>
-### <p align="center">Software Developer on the Bayou</p>
+### <p align="center">I build MVPs and websites for start-ups</p>
 I love to learn, I love to build things, and I want the stuff I make to help people.
 
 I am driven by a passion for creating innovative solutions to real-world problems. I'm always on the lookout for new, challenging projects that allow me to continue learning and growing in this field.
