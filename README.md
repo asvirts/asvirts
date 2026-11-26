@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="https://virts.dev"><img src="https://img.shields.io/badge/Website-virts.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: virts.dev"></a>
+  <a href="https://andrewvirts.com"><img src="https://img.shields.io/badge/Personal_site-andrewvirts.com-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal site: andrewvirts.com"></a>
 </p>
 
 ---
@@ -52,4 +53,7 @@ I love to learn, I love to build things, and I want what I make to help people.
 
 ## Let's connect
 
-Want to work together or just talk tech? Reach out through my website: **[virts.dev](https://virts.dev)**
+Want to work together or just talk tech? Reach out through either of my sites:
+
+- 💼 Work: **[virts.dev](https://virts.dev)**
+- 🏠 Personal: **[andrewvirts.com](https://andrewvirts.com)**
