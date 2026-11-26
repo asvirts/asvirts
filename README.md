@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Andrew Virts</h1>
-<h3 align="center">I build MVPs and websites for start-ups</h3>
+<h3 align="center">Solo developer building apps, SaaS products, and websites</h3>
 
 <p align="center">
   <a href="https://virts.dev"><img src="https://img.shields.io/badge/Website-virts.dev-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: virts.dev"></a>
@@ -12,8 +12,8 @@
 
 I love to learn, I love to build things, and I want what I make to help people.
 
-- 🚀 I turn early-stage ideas into working products, from small business websites to large-scale web apps
-- 🤝 I work well on a team, and I'm just as comfortable owning a project end to end
+- 🚀 I design, build, and ship apps, SaaS products, and websites as a solo dev
+- 🛠️ I own every project end to end, from idea and design to code and deployment
 - 🌱 I'm always looking for new, challenging projects that help me keep growing
 - 🎮 Off the clock: family time, video games, and sports
 
